@@ -1,0 +1,7 @@
+Started GET "/" for 127.0.0.1 at 2017-12-12 16:22:05 +0900
+Processing by ApplicationController#goodbye as HTML
+  Rendering html template
+  Rendered html template (0.1ms)
+Completed 200 OK in 526ms (Views: 18.4ms)
+
+
